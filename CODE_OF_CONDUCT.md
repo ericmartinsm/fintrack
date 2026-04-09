@@ -50,7 +50,7 @@ Este Código de Conduta se aplica tanto em espaços do projeto quanto em espaço
 
 ## ⚖️ Aplicação
 
-Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatados entrando em contato com a equipe do projeto em seu.email@exemplo.com.
+Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatados entrando em contato com a equipe do projeto em ericmartins1997@gmail.com
 
 Todas as reclamações serão revisadas e investigadas e resultarão em uma resposta considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter sigilo em relação ao relator de um incidente.
 
@@ -60,7 +60,7 @@ Mantenedores do projeto que não seguirem ou aplicarem o Código de Conduta de b
 
 ## 📞 Contato
 
-- **Email**: seu.email@exemplo.com
+- **Email**: ericmartins1997@gmail.com
 - **GitHub Issues**: Para questões relacionadas ao projeto
 - **Discussões**: Para conversas gerais
 

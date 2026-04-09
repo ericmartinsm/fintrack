@@ -10,7 +10,7 @@ Se você descobrir uma vulnerabilidade de segurança neste projeto, por favor, r
 
 Em vez disso:
 
-1. **Email**: Envie um email para seu.email@exemplo.com
+1. **Email**: Envie um email para ericmartins1997@gmail.com
 2. **Assunto**: `[SECURITY] Descrição breve da vulnerabilidade`
 3. **Conteúdo**: Inclua:
    - Descrição detalhada da vulnerabilidade

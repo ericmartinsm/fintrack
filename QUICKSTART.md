@@ -20,7 +20,7 @@ npm --version   # qualquer versão recente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/fintrack.git
+git clone https://github.com/ericmartinsm/fintrack.git
 
 # Entre na pasta
 cd fintrack
@@ -231,8 +231,8 @@ npm run build
 
 - 📖 Documentação completa: [README.md](README.md)
 - 🏗️ Arquitetura: [ARCHITECTURE.md](ARCHITECTURE.md)
-- 🐛 Reportar bug: [Issues](https://github.com/seu-usuario/fintrack/issues)
-- 💬 Discussões: [Discussions](https://github.com/seu-usuario/fintrack/discussions)
+- 🐛 Reportar bug: [Issues](https://github.com/ericmartinsm/fintrack/issues)
+- 💬 Discussões: [Discussions](https://github.com/ericmartinsm/fintrack/discussions)
 
 ---
 

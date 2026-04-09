@@ -20,7 +20,7 @@ Este projeto adere a um código de conduta. Ao participar, espera-se que você m
 ### 1. Fork o Projeto
 
 ```bash
-git clone https://github.com/seu-usuario/fintrack.git
+git clone https://github.com/ericmartinsm/fintrack.git
 cd fintrack
 ```
 
@@ -124,7 +124,7 @@ import type { Transaction } from "@/types";
 
 ## 🐛 Reportar Bugs
 
-Use as [GitHub Issues](https://github.com/seu-usuario/fintrack/issues) para reportar bugs.
+Use as [GitHub Issues](https://github.com/ericmartinsm/fintrack/issues) para reportar bugs.
 
 ### Ao reportar, inclua:
 

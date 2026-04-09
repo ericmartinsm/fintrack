@@ -226,7 +226,7 @@ O projeto segue uma **arquitetura baseada em features/domínios**, inspirada em 
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/fintrack.git
+git clone https://github.com/ericmartinsm/fintrack.git
 cd fintrack
 ```
 
@@ -327,9 +327,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Eric Martins**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- GitHub: [ericmartinsm](https://github.com/ericmartinsm)
+- LinkedIn: [ericmartinsdev](https://linkedin.com/in/ericmartinsdev)
+- Email: ericmartins1997@gmail.com
 
 ---
 
